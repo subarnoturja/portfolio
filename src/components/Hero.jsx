@@ -1,4 +1,4 @@
-import profilePic from "../assets/raviKumarProfile.webp";
+import profilePic from "../assets/Enhanced_LinkedIn.jpeg";
 import { motion } from "framer-motion";
 
 const containerVariants = {
@@ -44,7 +44,7 @@ const Hero = () => {
           className="flex flex-col items-center lg:items-start mt-10">
             <motion.h2
              variants={childVariants}
-            className="pb-2 text-4xl tracking-tighter lg:text-8xl">
+            className="pb-2 text-4xl tracking-tighter lg:text-7xl">
               Subarno Ranjan Barua
             </motion.h2>
             <motion.span
