@@ -1,4 +1,5 @@
 import "./App.css";
+import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
 
       <div className="container mx-auto px-8">
         <Navbar></Navbar>
+        <Hero></Hero>
       </div>
     </div>
   );
