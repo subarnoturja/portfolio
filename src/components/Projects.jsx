@@ -45,7 +45,7 @@ const Projects = () => {
                   {tech}
                 </span>
               ))}
-              <div className="mt-6 flex gap-4">
+              <div className="mt-6 mb-8 flex gap-4">
                 {project.liveLink && (
                   <div>
                     <a
