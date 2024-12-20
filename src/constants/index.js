@@ -1,4 +1,4 @@
-import project1 from "../assets/projects/project-1.webp";
+import project1 from "../assets/projects/StoryStacks.png"
 import project2 from "../assets/projects/project-2.webp";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/project-3.webp";
@@ -10,7 +10,7 @@ export const PROJECTS = [
     description:
       "A fully functional book selling website with features like book listing, seller dashboard, and user authentication.",
     technologies: ["React", "Node.js", "MongoDB", "Firebase", "Express.js"],
-    liveLink: "https://storestacks.com",
+    liveLink: "https://story-stacks.vercel.app/",
     clientRepo: "https://github.com/subarnoturja/StoryStacks-client",
     serverRepo: "https://github.com/subarnoturja/StoryStacks-server",
   },
