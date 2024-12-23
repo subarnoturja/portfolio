@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/StoryStacks.png"
-import project2 from "../assets/projects/project-2.webp";
+import project2 from "../assets/projects/noteify.png";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/project-3.webp";
 
@@ -15,14 +15,14 @@ export const PROJECTS = [
     serverRepo: "https://github.com/subarnoturja/StoryStacks-server",
   },
   {
-    title: "Trip Planner AI",
+    title: "Noteify",
     image: project2,
     description:
-      "An application for planning trips and vacation, with features such as suggesting visiting location, booking, and trip tracking.",
-    technologies: ["React", "TailwindCSS", "Gemini", "Firebase"],
-    liveLink: "https://storestacks.com",
-    clientRepo: "",
-    serverRepo: "",
+      "Noteify is a web application designed to help users create, organize, and manage notes efficiently.",
+    technologies: ["React", "TailwindCSS", "Node.js", "MongoDB"],
+    liveLink: "https://noteify-client.vercel.app/",
+    clientRepo: "https://github.com/subarnoturja/noteify-client",
+    serverRepo: "https://github.com/subarnoturja/noteify-server",
   },
   {
     title: "Quick Recipe",
