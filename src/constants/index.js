@@ -9,7 +9,7 @@ export const PROJECTS = [
     description:
       "A recipe suggesting website where recipes are giving for different dishes.",
     technologies: ["React", "TailwindCSS", "Node.js", "MongoDB", "Firebase", "Express.js"],
-    liveLink: "https://storestacks.com",
+    liveLink: "https://curepoint-client.vercel.app/",
     clientRepo: "https://github.com/subarnoturja/curepoint-client",
     serverRepo: "",
   },
