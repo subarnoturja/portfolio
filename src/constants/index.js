@@ -38,5 +38,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Pathantooly Road, Nazirpool, Chattrogram-4100 ",
   phoneNo: "+8801791997019 ",
-  email: "subarnoturja15@gmail.com",
+  email: "subarnoranjan12@gmail.com",
 };
