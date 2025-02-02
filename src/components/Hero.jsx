@@ -50,12 +50,12 @@ const Hero = () => {
             <motion.span
             variants={childVariants}
              className="bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text text-3xl tracking-tight text-transparent">
-              Full Stack Developer
+              React.js Developer
             </motion.span>
             <motion.p 
             variants={childVariants}
             className="my-2 max-w-lg py-6 text-xl leading-relaxed tracking-tighter">
-              I am an aspiring full stack developer passionate about creating
+              I am an aspiring developer passionate about creating
               dynamic, user-friendly web experiences. I specialize in both
               frontend and backend development, utilizing modern tools like
               React.js, TailwindCSS, Node.js, Express.js, Firebase, and MongoDB
