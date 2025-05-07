@@ -50,7 +50,7 @@ const Hero = () => {
             <motion.span
             variants={childVariants}
              className="bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text text-3xl tracking-tight text-transparent">
-              React.js Developer
+              Web Developer
             </motion.span>
             <motion.p 
             variants={childVariants}
@@ -65,7 +65,7 @@ const Hero = () => {
               technology, delivering impactful solutions to real-world problems
               while collaborating and learning as I grow in the tech community.
             </motion.p>
-            <motion.a href="/Resume_of_Subarno.pdf" target="_blank" rel="noopener noreferrer" download variants={childVariants} className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10">Download Resume
+            <motion.a href="/public/Web_Developer_Resume_of_Subarno_Ranjan.pdf" target="_blank" rel="noopener noreferrer" download variants={childVariants} className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10">Download Resume
             </motion.a>
           </motion.div>
         </div>
